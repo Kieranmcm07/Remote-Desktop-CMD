@@ -36,6 +36,8 @@ echo   2. Help / Instructions
 echo   3. Settings
 echo   4. Exit
 echo.
+echo This tool allows you to connect to remote PCs using RDP. Pleaes use it responsibly.
+echo.
 set /p "choice=Select [1-4]: "
 
 :: Process user selection
